@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(241, 241, 241);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    width: 66%;
+
+}
+
+h1,
+h2 {
+    color: rgb(78, 78, 47);
+}
+
+.main {
+    font-size: 20px;
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
